@@ -5,30 +5,30 @@ body {
     user-select: none;
 }
 .chipstable button {
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 70px;
     background-color: gray;
     border-radius: 50%;
     border: 4px black solid;
     outline: none;
 }
 .chipstable {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 .page-header {
-    font-size: 26px;
+    font-size: 1em;
     font-weight: bold;
-    letter-spacing: 5px;
-    line-height: 20px;
-    margin-bottom: 50px;
+    letter-spacing: 1px;
+    line-height: 12px;
+    margin-bottom: 30px;
 }
 a {
     text-decoration: none;
     outline: none;
     display: inline-block;
     width: 140px;
-    height: 70px;
-    line-height: 70px;
+    height: 40px;
+    line-height: 40px;
     border-radius: 45px;
     margin: 10px 20px;
     font-family: "Montserrat", sans-serif;
@@ -39,7 +39,7 @@ a {
     font-weight: 600;
     color: #524f4e;
     background: white;
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.6);
     transition: 0.3s;
 }
 a:hover {
